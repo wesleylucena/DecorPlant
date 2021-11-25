@@ -1,0 +1,16 @@
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\bin\Debug\netstandard2.0\PlantasDecorativas.deps.json
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\bin\Debug\netstandard2.0\PlantasDecorativas.dll
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\bin\Debug\netstandard2.0\ref\PlantasDecorativas.dll
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\bin\Debug\netstandard2.0\PlantasDecorativas.pdb
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\PlantasDecorativas.csproj.AssemblyReference.cache
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\PlantasDecorativas.GeneratedMSBuildEditorConfig.editorconfig
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\PlantasDecorativas.AssemblyInfoInputs.cache
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\PlantasDecorativas.AssemblyInfo.cs
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\PlantasDecorativas.csproj.CoreCompileInputs.cache
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\PlantasDecorativas.dll
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\ref\PlantasDecorativas.dll
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\PlantasDecorativas.pdb
+C:\NweLTP4\PlantasDecorativas\PlantasDecorativas\obj\Debug\netstandard2.0\Planta1.xaml.g.cs

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlantasDecorativas.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="LightGreen" Padding="24" CornerRadius="0">
+            <Label Text="BEM VINDO AO PLANTDECOR" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="PLANTDECOR" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="O plantdecor é um aplicativo voltado para voce quer iniciar no mundo maravilhoso da jardinagem mas nao sabe por onde começar, este aplicativo ajuda a enteder mais sobre plantas, dicas, informaçoes que iram ajudar a cuidar melhor e conhecer mais as plantas que voce gosta." FontSize="16" Padding="30,0,30,0"/>
+        <Label Text="Venha conhecer mais as Samanbaias" FontSize="Title" Padding="30,10,30,10"/>
+        
+        <Button Text="Samanbaia" Clicked="Button_ClickedAsync"/>
+    </StackLayout>
+</ContentPage>
+
